@@ -35,7 +35,7 @@
     "coffee-script": "1.12.7",
     "eslint": "6.0.1",
     "istanbul": "0.4.5",
-    "mocha": "6.1.4",
+    "mocha": "6.2.0",
     "opener": "1.5.1",
     "semantic-release": "15.13.18",
     "sinon": "5.1.1"
