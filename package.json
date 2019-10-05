@@ -33,7 +33,7 @@
   "devDependencies": {
     "chai": "4.2.0",
     "coffee-script": "1.12.7",
-    "eslint": "6.5.0",
+    "eslint": "6.5.1",
     "istanbul": "0.4.5",
     "mocha": "6.2.1",
     "opener": "1.5.1",
