@@ -37,7 +37,7 @@
     "istanbul": "0.4.5",
     "mocha": "6.2.2",
     "opener": "1.5.1",
-    "semantic-release": "15.13.31",
+    "semantic-release": "15.14.0",
     "sinon": "7.5.0"
   }
 }
