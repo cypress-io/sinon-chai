@@ -38,6 +38,6 @@
     "mocha": "6.2.2",
     "opener": "1.5.1",
     "semantic-release": "15.14.0",
-    "sinon": "7.5.0"
+    "sinon": "8.1.1"
   }
 }
