@@ -31,7 +31,7 @@
     "semantic-release": "semantic-release"
   },
   "devDependencies": {
-    "chai": "4.2.0",
+    "chai": "4.3.0",
     "coffee-script": "1.12.7",
     "eslint": "6.8.0",
     "istanbul": "0.4.5",
